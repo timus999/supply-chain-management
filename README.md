@@ -10,3 +10,4 @@
 
 -- Frontend
 Implemented Home page 
+Add ui components
