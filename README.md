@@ -1,2 +1,4 @@
-# supply_chain_management
-# supply-chain-management
+# Suplly Chain Managemnet
+
+1.Initialized foundry project for core backend smartcontract development
+
