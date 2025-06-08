@@ -10,3 +10,6 @@
 
 -- Frontend
 Implemented Home page 
+
+
+4. Implemented overall supplyChain logic.
