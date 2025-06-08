@@ -6,3 +6,7 @@
 
 
 3.Implemented the core Raw Material handling logic contract. 
+
+
+-- Frontend
+Implemented Home page 
