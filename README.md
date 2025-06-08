@@ -7,7 +7,10 @@
 
 3.Implemented the core Raw Material handling logic contract. 
 
+4. Implemented overall supplyChain logic.
+
 
 -- Frontend
 Implemented Home page 
-Add ui components
+
+add ui components
