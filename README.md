@@ -1,5 +1,8 @@
-# Suplly Chain Management
+# Supply Chain Management
 
 1.Initialized foundry project for core backend smartcontract development
 
-2.Implemented the core medicine hanlding logic contract 
+2.Implemented the core medicine handling logic contract.
+
+
+3.Implemented the core Raw Material handling logic contract. 
