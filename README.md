@@ -14,3 +14,8 @@
 Implemented Home page 
 
 add ui components
+
+created landing page
+
+implemented wallet integration
+
